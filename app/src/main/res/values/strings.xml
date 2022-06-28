@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clikit</string>
+    <string name="string_change">Change</string>
+    <string name="string_done">Done</string>
+    <string name="string_start">Start</string>
+    <string name="string_stop">Stop</string>
+
+</resources>
